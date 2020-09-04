@@ -1,6 +1,6 @@
 # nexter
-A project developed by Edy Matimbe and teached by jonas schmedtmann.
-Still a version 1.0 upcomming changes
+Edy Matimbe developed this landing page designed by Jonas Schmedtmann, using advanced css and sass course teached by the same
+# upcomming changes this is the version 1.0
 
 
 https://edy-cssgrid-nexter.netlify.app/
